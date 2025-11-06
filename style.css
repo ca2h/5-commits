@@ -50,3 +50,20 @@ form{
     justify-content: center;
 }
 textarea{resize: none}
+
+.about p{
+    width: 40%;
+    color:white;
+}
+.about h2{
+    color:white;
+}
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.about img{
+    margin-top:5%;
+    width: 15%;
+}
