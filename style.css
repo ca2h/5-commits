@@ -67,3 +67,20 @@ textarea{resize: none}
     margin-top:5%;
     width: 15%;
 }
+.shop img{
+    width: 50%;
+}
+.shop{
+    margin-left: 5%;
+    color:white;
+    font-size:24px;
+    display: flex;
+    flex-direction: row;
+}
+.cart{
+    width: 20%;
+}
+h1{
+    color:white;
+    margin-left:5%;
+}
